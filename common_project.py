@@ -29,5 +29,5 @@ class CommonProject(CommonLib):
 
 if __name__ == "__main__":
     my_object = CommonProject()
-    my_object.test_methods()
+    my_object.calculate_factorial()
 
